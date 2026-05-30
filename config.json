@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicespdate",
+        "uuid": 10437504,
+        "checksum": "eqraaud"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
